@@ -8,7 +8,7 @@
 
 ### Hi there! 👋
 
-- :office_worker: Web developer Front-end at **Hospital São Paulo**
+- :woman_technologist: **Fullstack** web developer. **Front-end** passionate.
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and more.
 - :books: Graduated by **Ironhack** :blue_heart: and currently studying at **Rocketseat** :purple_heart: 
 
@@ -16,6 +16,7 @@
   - Former nurse 👩‍
   - Fitness addicted 🏋️‍
   - Beer lover 🍺
+  - 12 Tattos ✒️
   - Mother of pug 🐶  and cats 🐈 
 
 ---
