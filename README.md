@@ -17,7 +17,7 @@
   - Former nurse 👩‍
   - Fitness addicted 🏋️‍
   - Beer lover 🍺
-  - 12 Tattos ✒️
+  - 12 Tattoos ✒️
   - Mother of pug 🐶  and cats 🐈 
 
 ---
