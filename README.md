@@ -8,9 +8,8 @@
 
 ### Hi there! 👋
 
-- :woman_technologist: **Fullstack** web developer. **Front-end** passionate.
-- 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
-- :books: Graduated by **Ironhack** :blue_heart: and currently studying at **Rocketseat** :purple_heart: 
+- :woman_technologist: **Fullstack** web developer. **Front-end and Back-End** passionate.
+- 💻 PHP, Laravel, Javascript, Docker and **more**.
 
 - ⚡ Fun facts: 
   - Former nurse 👩‍
