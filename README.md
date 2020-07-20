@@ -9,13 +9,11 @@
 ### Hi there! 👋
 
 - :man_technologist: **Fullstack** web developer. **Front-end and Back-End** passionate.
-- 💻 PHP, Laravel, Javascript, Docker and **more**.
+- 💻 PHP, Laravel, Javascript, Docker, Clean Code and **more**.
 
 - ⚡ Fun facts: 
-  - Former nurse 👩‍
-  - Fitness addicted 🏋️‍
-  - Beer lover 🍺
-  - 12 Tattoos ✒️
-  - Mother of pug 🐶  and cats 🐈 
+  - Lover of fitness and run 🏋️‍🏃🏻
+  - Reading Lover 📚
+  - Father of pug 🐶  and cats 🐈 
 
 ---
