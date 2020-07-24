@@ -7,7 +7,7 @@
 
 ### Hi there! 👋
 
-- :man_technologist: **Fullstack** web developer. **Front-end and Back-End** passionate.
+- :man_technologist: **Fullstack** web developer. **Back-End** passionate.
 - 💻 PHP, Laravel, Javascript, Docker, Clean Code and **more**.
 
 - ⚡ Fun facts: 
